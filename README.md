@@ -42,6 +42,19 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
  
 </p>
 
+🚗 Autonomous Driving | 🤖 Robotics | 🧠 AI Enthusiast  
+
+- 🔭 Currently working on GPU-accelerated clustering for ROS 2  
+- 📚 Experience leading the Autonomous Driving department in Formula Student  
+- 💻 Skills: C++, Python, ROS 2, CUDA, Computer Vision, Path Planning  
+- 🌱 Passionate about autonomous vehicles, robotics, and AI  
+
+---
+
+### 🚀 Featured Projects
+- [CudaClustering](https://github.com/MatteGombia/CudaClustering) – GPU-accelerated clustering for point clouds in ROS 2
+- Formula Student Autonomous Driving – real-time perception, planning & control
+
 
 ## 🌐 Other Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo%20Gombia-blue?style=flat&logo=linkedin)](www.linkedin.com/in/matteo-gombia-4841bb384)
