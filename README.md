@@ -45,4 +45,4 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 
 ## 🌐 Other Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo%20Gombia-blue?style=flat&logo=linkedin)](www.linkedin.com/in/matteo-gombia-4841bb384)
-[![Instagram](https://img.shields.io/badge/Instagram-@matteo_gombia_-E4405F?style=flat&logo=instagram)](https://www.instagram.com/matteo_gombia/)
+[![Instagram](https://img.shields.io/badge/Instagram-@matteo__gombia-E4405F?style=flat&logo=instagram)](https://www.instagram.com/matteo_gombia/)
